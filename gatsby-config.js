@@ -3,7 +3,7 @@ const path = require('path');
 module.exports = {
   siteMetadata: {
     title: 'Carbon Design System',
-    siteUrl: 'https://www.carbondesignsystem.com',
+    siteUrl: 'https://next.goquantum.cloud',
     description:
       'Carbon is the design system for IBM web and product. It is a series of individual styles, components, and guidelines used for creating unified UI.',
     keywords:
